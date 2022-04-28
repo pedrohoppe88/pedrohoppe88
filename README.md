@@ -1,10 +1,6 @@
 # Olá seja bem vindo ao meu git hub
 I am a student at the CTISM school - Colégio Técnico Industrial de Santa Maria, enrolled in the course of computer science for the web
 
-information
-
-information
-
 ### information
 
 - 🔭 I currently do not work for any company
@@ -13,5 +9,8 @@ information
 - 🤠pronouns: ele/dele
 
 ### hobbies
+- 🎮play video game
+- 📺watch series and movies
+
 
 
