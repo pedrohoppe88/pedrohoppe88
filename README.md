@@ -1,16 +1,10 @@
-### Hi there 👋
+#Olá seja bem vindo ao meu git hub
+ I am a student at the CTISM school - Colégio Técnico Industrial de Santa Maria, enrolled in the course of computer science for the web
 
-<!--
-**pedrohoppe88/pedrohoppe88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning a bit of programation 
-- 👯 I’m looking to collaborate on nothing in priority
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about ...
-- 📫 How to reach me: my email: pedrohenriquehoppe6@gmail.com
-- 🤠pronouns guri
-⚡ Fun fact: none 
--->
+###information
+- 🔭 I currently do not work for any company
+- 🌱 I'm studying informatics for the web
+- 📫 How to reach me: my email:pedrohenriquehoppe6@gmail.com
+- 🤠pronouns: ele/dele
+- 📫where can you find me
+ 
