@@ -1,21 +1,20 @@
 # Olá seja bem vindo ao meu git hub
-I am a student at the CTISM school - Colégio Técnico Industrial de Santa Maria, enrolled in the course of computer science for the web
+Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a web
 
-# My hobbies are
-- 🎮play video game
-- 📺watch series and movies
-- 💪do physical activity
+# Meus hobbies
+- 🎮jogar vídeo game
+- 📺assistir séries e filmes
+- 💪fazer atividade física
 
-# I'm currently studying
-- 💻c
-- 💻JAVA
+# atualmente estou estudando
+- HTML
+- JavaScript
 
-# languages
-- HTML 
+# Linguagens utilizadas
 - C
 
 # Contact
--Email -pedrohenriquehoppe6@gmail.com
+- Email -pedrohenriquehoppe6@gmail.com
 
 
 
