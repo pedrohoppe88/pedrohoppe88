@@ -1,4 +1,6 @@
 # Olá seja bem vindo ao meu git hub
+
+# Sobre mim
 Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a web
 
 # Meus hobbies
