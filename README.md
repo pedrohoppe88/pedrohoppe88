@@ -13,7 +13,7 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 # Linguagens utilizadas
 - C
 
-# Contact
+# Contato
 - Email -pedrohenriquehoppe6@gmail.com
 
 
