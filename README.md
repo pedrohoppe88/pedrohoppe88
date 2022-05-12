@@ -8,9 +8,13 @@ I am a student at the CTISM school - Colégio Técnico Industrial de Santa Maria
 - 📫 How to reach me: my email:pedrohenriquehoppe6@gmail.com
 - 🤠pronouns: ele/dele
 
-### hobbies
+### My hobbies are
 - 🎮play video game
 - 📺watch series and movies
+
+### languages
+- java 
+- c++
 
 
 
