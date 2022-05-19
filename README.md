@@ -32,6 +32,9 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199077291732/)
 
 
+ [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+
 
 
 
