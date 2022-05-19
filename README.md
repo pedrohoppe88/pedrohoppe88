@@ -1,4 +1,4 @@
-# Olá seja bem vindo ao meu git hub
+# 👋Olá seja bem vindo ao meu git hub
 ![texto](https://i.pinimg.com/originals/38/4c/4e/384c4ef16e888690c77bc068b39b1840.gif)
 
 # Sobre mim
@@ -28,6 +28,8 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 <a href = "mailto:pedrohenriquehoppe6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohhott/)
+
+ [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199077291732/)
 
 
 
