@@ -14,6 +14,27 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 - 🎵ouvir música
 - 💪fazer atividade física
 
+## Meus favoritos
+
+### Animes
+- Death Note
+- Dororo
+- One piece
+- attaque of titan
+
+### séries
+- Peaky Blinders
+- Lúcifer
+- Desencantamento
+- Ragnarök
+
+### Jogos
+- CS:GO
+- battlefield 4
+- battlefield 3
+- GTAV
+- COD Warzone
+
 
 # atualmente estou estudando
 - HTML
