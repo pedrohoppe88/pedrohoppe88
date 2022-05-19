@@ -24,7 +24,7 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 
 
 # Contato
- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohenriquehoppe6@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedrohenriquehoppe6@gmail.com)
 
  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohhott/)
 
