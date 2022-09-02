@@ -38,10 +38,13 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 
 # atualmente estou estudando
 - HTML
+- CSS
 - JavaScript
 
 # Linguagens utilizadas
 - C
+- HTML
+- CSS
 
 
 # Contato
