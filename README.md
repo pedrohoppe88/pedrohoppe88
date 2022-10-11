@@ -6,7 +6,6 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
 
-OI AMIGO FECHE SEU GITHUB PFV TEM PESSOAS QUE VAO USAR DISSO PRA SER SAPECAS COM VC E FAZER SAPECAGENS!!!!!!!!1 TOME CUIDADO PFV
 
 # Meus hobbies
 - 🎮jogar vídeo game
