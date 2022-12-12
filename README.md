@@ -37,6 +37,7 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 
 
 # atualmente estou estudando
+- C
 - HTML
 - CSS
 - JavaScript
@@ -45,6 +46,7 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 - C
 - HTML
 - CSS
+- JavaScript
 
 
 # Contato
