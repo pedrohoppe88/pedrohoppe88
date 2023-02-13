@@ -6,7 +6,7 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Meus hobbies
 - 🎮jogar vídeo game
