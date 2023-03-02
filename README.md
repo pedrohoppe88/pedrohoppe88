@@ -41,7 +41,7 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 
 # atualmente estou estudando
 - C
-- HTML
+- https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white HTML
 - CSS
 - JavaScript
 
