@@ -2,7 +2,7 @@
 ![texto](https://i.pinimg.com/originals/38/4c/4e/384c4ef16e888690c77bc068b39b1840.gif)
 
 # Sobre mim
-Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a internet 
+Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a internet
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
 
@@ -27,7 +27,6 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 
 ### séries
 - Peaky Blinders
-- Lúcifer
 - Desencantamento
 - Ragnarök
 
@@ -41,18 +40,16 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 
 
 # atualmente estou estudando
--  C
-- HTML
-- CSS
-- JavaScript
+- HTML CSS JavaScript
 - PHP
+- Python
+- C
 
 # Linguagens utilizadas
-- C
-- HTML
-- CSS
-- JavaScript
+- HTML CSS JavaScript
 - PHP
+- Python
+- C
 
 
 # Contato
