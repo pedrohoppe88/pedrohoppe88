@@ -43,12 +43,14 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 - HTML CSS JavaScript
 - PHP
 - Python
+- C++
 - C
 
 # Linguagens utilizadas
 - HTML CSS JavaScript
 - PHP
 - Python
+- C++
 - C
 
 
