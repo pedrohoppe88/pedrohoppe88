@@ -1,4 +1,4 @@
-# 👋Olá seja bem vindo ao meu git hub onde eu sempre dou a bunda para o Fabinho, Brasilsinho
+# 👋Olá seja bem vindo ao meu git hub. Eu gosto de dar a bunda pro Nicolau
 ![texto](https://i.pinimg.com/originals/38/4c/4e/384c4ef16e888690c77bc068b39b1840.gif)
 
 # Sobre mim
