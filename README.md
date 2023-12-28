@@ -53,7 +53,6 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 - COD Warzone
 
 
-
 # Contato
 
 <a href = "mailto:pedrohenriquehoppe6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
