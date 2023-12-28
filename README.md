@@ -9,16 +9,15 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# atualmente estou estudando
-- HTML CSS JavaScript
-- jquery
+# Atualmente estou estudando
+- HTML CSS JavaScript jquery
 - PHP
-- Python
+- C#
 - C++
 - C
 
 # Linguagens utilizadas
-- HTML CSS JavaScript
+- HTML CSS JavaScript jquery
 - PHP
 - C#
 - C++
