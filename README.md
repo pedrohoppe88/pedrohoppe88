@@ -49,8 +49,6 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 - battlefield 3
 - GTAV
 - DayZ
-- COD Warzone
-
 
 # Contato
 
