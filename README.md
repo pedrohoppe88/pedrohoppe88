@@ -5,9 +5,7 @@
 Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a internet
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact)
 
 # Atualmente estou estudando
 - HTML CSS JavaScript jquery
