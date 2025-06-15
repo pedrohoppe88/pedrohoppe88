@@ -36,7 +36,7 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 - HTML CSS JavaScript jquery
 - PHP
 - Python/Django
-+ Cypress
+- Cypress
 - C
 
 # Meus hobbies
