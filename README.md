@@ -28,17 +28,15 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 ▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
 
 # Atualmente estou estudando
-- HTML CSS JavaScript jquery
 - PHP
-- C#
-- C++
+- Python/Django
 - C
 
 # Linguagens utilizadas
 - HTML CSS JavaScript jquery
 - PHP
-- C#
-- C++
+- Python/Django
++ Cypress
 - C
 
 # Meus hobbies
@@ -58,7 +56,6 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 
 ### séries
 - Peaky Blinders
-- Desencantamento
 - Ragnarök
 
 ### Jogos
