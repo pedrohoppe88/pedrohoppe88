@@ -10,7 +10,7 @@ Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrit
 # Atualmente estou estudando
 - PHP
 - Python/Django
-- C
+- NodeJs
 
 # Linguagens utilizadas
 - HTML CSS JavaScript jquery
