@@ -2,7 +2,7 @@
 ![texto](https://i.pinimg.com/originals/38/4c/4e/384c4ef16e888690c77bc068b39b1840.gif)
 
 # Sobre mim
-Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a internet
+Sou Formado no CTISM - Colégio Técnico Industrial de Santa Maria e Hoje estou estudando sistemas da informação na AMF
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact)
