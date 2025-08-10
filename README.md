@@ -1,5 +1,5 @@
 # 👋Olá seja bem vindo ao meu git hub.
-![texto](https://i.pinimg.com/originals/38/4c/4e/384c4ef16e888690c77bc068b39b1840.gif)
+![texto](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ5OHhhdGh5dDh3NW11a2Q3YnppaHdhY3lxMGQzYnYyNHl0ZGpuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
 # Sobre mim
 Sou Formado no CTISM - Colégio Técnico Industrial de Santa Maria e Hoje estou estudando sistemas da informação na AMF
