@@ -8,15 +8,14 @@ Sou Formado no CTISM - Colégio Técnico Industrial de Santa Maria e Hoje estou 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact)
 
 # Atualmente estou estudando
-- PHP
+- Cypress
 - Python/Django
 - NodeJs
 
 # Linguagens utilizadas
-- HTML CSS JavaScript jquery
-- PHP
+- JavaScript/Cypress
 - Python/Django
-- Cypress
+- PHP
 - C
 
 # Meus hobbies
