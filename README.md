@@ -7,16 +7,16 @@ Sou Formado no CTISM - Colégio Técnico Industrial de Santa Maria e Hoje estou 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact)
 
-# Atualmente estou estudando
-- Cypress
-- Python/Django
-- NodeJs
 
-# Linguagens utilizadas
-- JavaScript/Cypress
-- Python/Django
-- PHP
-- C
+# Linguagens e Tecnologias
+<img
+
+    aling = "CSS"
+    title = "CSS
+    width = "30px"
+    style = "padding-right: 10px"
+    https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg        
+/>
 
 # Meus hobbies
 - 🎮jogar vídeo game
