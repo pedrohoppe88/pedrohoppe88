@@ -11,7 +11,7 @@ Sou um entusiasta de tecnologia com formação técnica no CTISM (Colégio Técn
 </div>
 
 ## 🛠️ Habilidades e Tecnologias
-Aqui estão as principais linguagens que domino, organizadas de forma clara e visual:
+Aqui estão as principais linguagens que domino:
 
 <div align="center">
   
