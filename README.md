@@ -3,7 +3,7 @@
 # Pedro Henrique Hoppe
 ### Desenvolvedor Full-Stack em Formação | Estudante de Sistemas de Informação
 
-Sou um entusiasta de tecnologia com formação técnica no CTISM (Colégio Técnico Industrial de Santa Maria) e atualmente cursando Sistemas de Informação na AMF. Apaixonado por programação, desenvolvimento web e soluções inovadoras, busco constantemente aprimorar minhas habilidades em linguagens como PHP, JavaScript, Python e C.
+Sou um entusiasta de tecnologia com formação técnica no CTISM (Colégio Técnico Industrial de Santa Maria) e atualmente cursando Sistemas de Informação na AMF. desenvolvimento web e soluções inovadoras. Habilidades em linguagens como PHP, JavaScript/NodeJs/Cypress, Python/Django e C.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical&hide_border=true)](https://github.com/pedrohoppe88)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact&theme=radical&hide_border=true)](https://github.com/pedrohoppe88)
