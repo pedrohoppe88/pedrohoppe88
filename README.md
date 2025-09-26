@@ -28,6 +28,7 @@ Aqui estão as principais linguagens que domino, organizadas de forma clara e vi
 Estou sempre explorando novas ferramentas e frameworks para construir aplicações robustas e eficientes.
 
 ## 🎯 Interesses Profissionais
+- hoje o meu foco está sendo totalmento voltado para a área de qualidade de software e automação, mas possuo habilidades e conhecimentos solidos em programação Full-stack
 
 
 ## 📞 Contato
