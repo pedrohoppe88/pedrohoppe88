@@ -1,66 +1,78 @@
-
-# 👋Olá seja bem vindo ao meu git hub.
-![texto](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJ5OHhhdGh5dDh3NW11a2Q3YnppaHdhY3lxMGQzYnYyNHl0ZGpuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
-
-# Sobre mim
-Sou Formado no CTISM - Colégio Técnico Industrial de Santa Maria e Hoje estou estudando sistemas da informação na AMF
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact)
-
-
-# Linguagens e Tecnologias
-### Aqui estão as principais linguagens e tecnologias que eu utilizo
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+
+# Pedro Hoppe
+### Desenvolvedor Full-Stack em Formação | Estudante de Sistemas de Informação
+
+Sou um entusiasta de tecnologia com formação técnica no CTISM (Colégio Técnico Industrial de Santa Maria) e atualmente cursando Sistemas de Informação na AMF. Apaixonado por programação, desenvolvimento web e soluções inovadoras, busco constantemente aprimorar minhas habilidades em linguagens como PHP, JavaScript, Python e C.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical&hide_border=true)](https://github.com/pedrohoppe88)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact&theme=radical&hide_border=true)](https://github.com/pedrohoppe88)
 
 </div>
 
-# Meus hobbies
-- 🎮jogar vídeo game
-- 📺assistir séries e filmes
-- 🎞Assistir animes
-- 🎵ouvir música
-- 💪fazer atividade física
+## 🛠️ Habilidades e Tecnologias
+Aqui estão as principais linguagens que domino, organizadas de forma clara e visual:
 
-## Meus favoritos
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="60" height="60" title="PHP" />
+  &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" title="JavaScript" />
+  &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" title="Python" />
+  &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="60" height="60" title="C" />
 
-### Animes
+</div>
+
+Estou sempre explorando novas ferramentas e frameworks para construir aplicações robustas e eficientes.
+
+## 🎯 Interesses Pessoais
+Além da programação, gosto de equilibrar o dia a dia com atividades que estimulam a criatividade e o relaxamento:
+
+- **Hobbies**: Jogar videogames (🎮), assistir séries e filmes (📺), maratonar animes (🎞️), ouvir música (🎵) e praticar exercícios físicos (💪).
+  
+### Favoritos Selecionados
+#### Animes
 - Death Note
 - Dororo
-- One piece
-- attaque of titan
+- One Piece
+- Attack on Titan
 
-### séries
+#### Séries
 - Peaky Blinders
 - Ragnarök
 
-### Jogos
+#### Jogos
 - CS:GO
-- battlefield 4
-- battlefield 3
-- GTAV
+- Battlefield 4
+- Battlefield 3
+- GTA V
 - DayZ
 
-# Contato
+Esses interesses me inspiram a pensar de forma criativa no desenvolvimento de software.
 
-<a href = "mailto:pedrohenriquehoppe6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+## 📞 Contato
+Sinta-se à vontade para se conectar! Estou aberto a colaborações, oportunidades ou simplesmente uma conversa sobre tech.
 
- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohhott/)
+<div align="center">
 
- [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199077291732/)
+<a href="mailto:pedrohenriquehoppe6@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+&nbsp;
+<a href="https://www.instagram.com/pedrohhott/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+&nbsp;
+<a href="https://steamcommunity.com/profiles/76561199077291732/">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+</a>
 
+</div>
 
- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
+---
 
-
-
-
-
-
+*Última atualização: [Insira a data aqui]. Este perfil é mantido ativamente para refletir meu progresso profissional.*
