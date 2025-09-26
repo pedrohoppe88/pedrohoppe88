@@ -9,14 +9,7 @@ Sou Formado no CTISM - Colégio Técnico Industrial de Santa Maria e Hoje estou 
 
 
 # Linguagens e Tecnologias
-<img
-
-    aling = "CSS"
-    title = "CSS
-    width = "30px"
-    style = "padding-right: 10px"
-    https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg        
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
 # Meus hobbies
 - 🎮jogar vídeo game
