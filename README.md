@@ -10,7 +10,7 @@ Sou Formado no CTISM - Colégio Técnico Industrial de Santa Maria e Hoje estou 
 
 
 # Linguagens e Tecnologias
-## Aqui estão as principais linguagens e tecnologias que eu utilizo
+### Aqui estão as principais linguagens e tecnologias que eu utilizo
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
