@@ -25,7 +25,9 @@ Aqui estão as principais linguagens que domino, organizadas de forma clara e vi
 
 </div>
 ## Frameworks & Libraries
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="60" height="60" title="PHP" />
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="PHP" width="60" height="60" title="" />
   &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" title="JavaScript" />
   &nbsp; &nbsp;
@@ -33,6 +35,7 @@ Aqui estão as principais linguagens que domino, organizadas de forma clara e vi
   &nbsp; &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="60" height="60" title="C" />
 
+</div>
 
 
 
