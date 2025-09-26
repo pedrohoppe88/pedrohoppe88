@@ -27,30 +27,8 @@ Aqui estão as principais linguagens que domino, organizadas de forma clara e vi
 
 Estou sempre explorando novas ferramentas e frameworks para construir aplicações robustas e eficientes.
 
-## 🎯 Interesses Pessoais
-Além da programação, gosto de equilibrar o dia a dia com atividades que estimulam a criatividade e o relaxamento:
+## 🎯 Interesses Profissionais
 
-- **Hobbies**: Jogar videogames (🎮), assistir séries e filmes (📺), maratonar animes (🎞️), ouvir música (🎵) e praticar exercícios físicos (💪).
-  
-### Favoritos Selecionados
-#### Animes
-- Death Note
-- Dororo
-- One Piece
-- Attack on Titan
-
-#### Séries
-- Peaky Blinders
-- Ragnarök
-
-#### Jogos
-- CS:GO
-- Battlefield 4
-- Battlefield 3
-- GTA V
-- DayZ
-
-Esses interesses me inspiram a pensar de forma criativa no desenvolvimento de software.
 
 ## 📞 Contato
 Sinta-se à vontade para se conectar! Estou aberto a colaborações, oportunidades ou simplesmente uma conversa sobre tech.
