@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pedro Hoppe
+# Pedro Henrique Hoppe
 ### Desenvolvedor Full-Stack em Formação | Estudante de Sistemas de Informação
 
 Sou um entusiasta de tecnologia com formação técnica no CTISM (Colégio Técnico Industrial de Santa Maria) e atualmente cursando Sistemas de Informação na AMF. Apaixonado por programação, desenvolvimento web e soluções inovadoras, busco constantemente aprimorar minhas habilidades em linguagens como PHP, JavaScript, Python e C.
