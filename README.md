@@ -24,6 +24,17 @@ Aqui estão as principais linguagens que domino, organizadas de forma clara e vi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="60" height="60" title="C" />
 
 </div>
+## Frameworks & Libraries
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="60" height="60" title="PHP" />
+  &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" title="JavaScript" />
+  &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="60" height="60" title="Python" />
+  &nbsp; &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="60" height="60" title="C" />
+
+
+
 
 Estou sempre explorando novas ferramentas e frameworks para construir aplicações robustas e eficientes.
 
