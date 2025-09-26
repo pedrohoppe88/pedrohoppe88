@@ -15,7 +15,7 @@ Sou Formado no CTISM - Colégio Técnico Industrial de Santa Maria e Hoje estou 
 # Linguagens utilizadas
 - JavaScript/Cypress
 - Python/Django
-<a href = "mailto:pedrohenriquehoppe6@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)" target="_blank"></a>
+- PHP
 - C
 
 # Meus hobbies
