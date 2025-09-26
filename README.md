@@ -54,5 +54,3 @@ Sinta-se à vontade para se conectar! Estou aberto a colaborações, oportunidad
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ---
-
-*Última atualização: [Insira a data aqui]. Este perfil é mantido ativamente para refletir meu progresso profissional.*
