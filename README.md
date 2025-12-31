@@ -4,7 +4,7 @@
 ### Desenvolvedor Full Stack em Formação | Qualidade de Software & Automação (QA)
 
 Sou um entusiasta de tecnologia, com formação técnica pelo **CTISM (Colégio Técnico Industrial de Santa Maria)** e atualmente estudante de **Sistemas de Informação na AMF**.  
-Possuo sólida base em desenvolvimento web e estou direcionando minha carreira para a área de **Qualidade de Software (QA)**, com foco em **automação de testes**, boas práticas e entrega de software confiável.
+Possuo sólida base em desenvolvimento de sistemas e estou direcionando minha carreira para a área de **Qualidade de Software (QA)**, com foco em **automação de testes**, boas práticas e entrega de software confiável.
 
 Tenho experiência tanto no desenvolvimento quanto na validação de aplicações, o que me permite uma visão completa do sistema, desde o código até a qualidade final entregue ao usuário.
 
