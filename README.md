@@ -10,7 +10,6 @@ Tenho experiência tanto no desenvolvimento quanto na validação de aplicaçõe
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact&theme=radical&hide_border=true)](https://github.com/pedrohoppe88)
 
 </div>
 
