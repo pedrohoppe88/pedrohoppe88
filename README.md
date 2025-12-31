@@ -8,8 +8,10 @@ Possuo sólida base em desenvolvimento de sistemas e estou direcionando minha ca
 
 Tenho experiência tanto no desenvolvimento quanto na validação de aplicações, o que me permite uma visão completa do sistema, desde o código até a qualidade final entregue ao usuário.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact&theme=radical&hide_border=true)](https://github.com/pedrohoppe88)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pedrohoppe88&theme=radical&hide_border=true)
+
 
 </div>
 
