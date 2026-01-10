@@ -10,7 +10,7 @@ Minha experiência em desenvolvimento me permite atuar com **testes mais intelig
 
 Busco sempre escrever código limpo, criar testes automatizados sólidos e contribuir para a melhoria contínua da qualidade do software.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedrohoppe88&theme=radical&hide_border=true)
 
