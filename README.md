@@ -9,6 +9,7 @@ Atuo com **desenvolvimento Full Stack** e **Qualidade de Software (QA)**, unindo
 Minha experiência em desenvolvimento me permite atuar com **testes mais inteligentes e eficazes**, entendendo o sistema de ponta a ponta — do back-end ao comportamento final do usuário.
 
 Busco sempre escrever código limpo, criar testes automatizados sólidos e contribuir para a melhoria contínua da qualidade do software.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedrohoppe88&theme=radical&hide_border=true)
 
 </div>
