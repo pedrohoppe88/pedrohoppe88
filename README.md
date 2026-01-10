@@ -10,7 +10,8 @@ Minha experiência em desenvolvimento me permite atuar com **testes mais intelig
 
 Busco sempre escrever código limpo, criar testes automatizados sólidos e contribuir para a melhoria contínua da qualidade do software.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pedrohoppe881&theme=dark)](https://git.io/streak-stats)
+[[![GitHub Streak](https://streak-stats.demolab.com/?user=pedrohoppe881&theme=dark)](https://git.io/streak-stats)](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical&hide_border=true&count_private=true
+)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedrohoppe88&theme=radical&hide_border=true)
 
