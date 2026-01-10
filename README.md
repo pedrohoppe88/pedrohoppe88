@@ -1,17 +1,18 @@
 <div align="center">
 
 # 👨‍💻 Pedro Henrique Hoppe  
-### Desenvolvedor Full Stack em Formação | Qualidade de Software & Automação (QA)
+### Desenvolvedor Full Stack | Qualidade de Software (QA) & Automação de Testes
 
-Sou um entusiasta de tecnologia, com formação técnica pelo **CTISM (Colégio Técnico Industrial de Santa Maria)** e atualmente estudante de **Sistemas de Informação na AMF**.  
-Possuo sólida base em desenvolvimento de sistemas e estou direcionando minha carreira para a área de **Qualidade de Software (QA)**, com foco em **automação de testes**, boas práticas e entrega de software confiável.
+Sou desenvolvedor com formação técnica pelo **CTISM (Colégio Técnico Industrial de Santa Maria)** e graduando em **Sistemas de Informação (AMF)**.  
+Atuo com **desenvolvimento Full Stack** e **Qualidade de Software (QA)**, unindo código, testes e boas práticas para entregar sistemas mais confiáveis, escaláveis e bem estruturados.
 
-Tenho experiência tanto no desenvolvimento quanto na validação de aplicações, o que me permite uma visão completa do sistema, desde o código até a qualidade final entregue ao usuário.
+Minha experiência em desenvolvimento me permite atuar com **testes mais inteligentes e eficazes**, entendendo o sistema de ponta a ponta — do back-end ao comportamento final do usuário.
+
+Busco sempre escrever código limpo, criar testes automatizados sólidos e contribuir para a melhoria contínua da qualidade do software.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedrohoppe88&theme=radical&hide_border=true)
-
 
 </div>
 
@@ -39,45 +40,47 @@ Tenho experiência tanto no desenvolvimento quanto na validação de aplicaçõe
 
 ---
 
-## 🧪 Qualidade de Software (QA)
+## 🧪 Qualidade de Software (QA & Testes)
 
-Atualmente, meu foco principal está em:
+Tenho forte atuação em **Qualidade de Software**, com foco em **automação de testes** e prevenção de falhas, atuando próximo ao desenvolvimento.
 
-- ✔️ Testes automatizados End-to-End (E2E)  
-- ✔️ Automação de testes com **Cypress**  
-- ✔️ Validação de fluxos, regras de negócio e usabilidade  
-- ✔️ Identificação de falhas e prevenção de bugs  
-- ✔️ Integração entre desenvolvimento e testes  
-- ✔️ Escrita de cenários claros e reutilizáveis  
+**Principais atividades:**
 
-Mesmo com foco em QA, possuo **conhecimento sólido em desenvolvimento Full Stack**, o que contribui para testes mais eficientes, melhor comunicação com desenvolvedores e maior qualidade do produto final.
+- ✔️ Automação de testes End-to-End (E2E)  
+- ✔️ Testes automatizados com **Cypress**  
+- ✔️ Validação de fluxos críticos e regras de negócio  
+- ✔️ Testes de regressão e usabilidade  
+- ✔️ Escrita de cenários reutilizáveis e bem documentados  
+- ✔️ Apoio ao desenvolvimento com visão técnica de QA  
+
+A combinação entre **Full Stack + QA** me permite contribuir tanto na construção quanto na validação de sistemas, reduzindo retrabalho e aumentando a qualidade final do produto.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 - 🧪 **Automação de Testes Web com Cypress**  
-  Testes E2E para aplicações web, cobrindo fluxos críticos, validações e regressões.
+  Suite de testes E2E cobrindo fluxos críticos, validações de negócio e regressões.
 
 - 🌐 **Sistema Web com Django**  
-  Aplicação web completa com autenticação, controle de usuários e regras de negócio.
+  Aplicação completa com autenticação, gerenciamento de usuários e regras de negócio.
 
-- ⚙️ **Projetos Acadêmicos e Técnicos**  
-  Desenvolvimento de sistemas e scripts voltados à aprendizagem, boas práticas e qualidade de código.
+- ⚙️ **Projetos Técnicos e Acadêmicos**  
+  Sistemas e scripts voltados a boas práticas, aprendizado contínuo e qualidade de código.
 
-*(Veja mais em meus repositórios)*
+➡️ *Confira mais nos meus repositórios.*
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar na área de **Qualidade de Software (QA)**, com foco em **automação de testes**, contribuindo para a construção de sistemas mais confiáveis, estáveis e bem testados, sem abrir mão da visão técnica de desenvolvimento.
+Atuar como **Desenvolvedor Full Stack com foco em Qualidade de Software (QA)**, especialmente em **automação de testes**, contribuindo para produtos mais estáveis, seguros e bem testados.
 
 ---
 
 ## 📬 Contato
 
-Sinta-se à vontade para entrar em contato. Estou aberto a oportunidades, colaborações e networking na área de tecnologia.
+Aberto a oportunidades, projetos e networking na área de tecnologia.
 
 <div align="center">
 
