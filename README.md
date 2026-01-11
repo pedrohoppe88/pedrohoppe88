@@ -1,10 +1,10 @@
 <div align="center">
 
 # 👨‍💻 Pedro Henrique Hoppe  
-### Desenvolvedor Full Stack | QA & Automação de Testes
+### Desenvolvedor Full Stack | React, QA & Automação de Testes
 
 Sou desenvolvedor **Full Stack** com formação técnica pelo **CTISM (Colégio Técnico Industrial de Santa Maria)** e graduando em **Sistemas de Informação (AMF)**.  
-Atuo no desenvolvimento de aplicações **front-end e back-end**, com forte foco em **Qualidade de Software (QA)** e **automação de testes**, aplicando boas práticas para entregar sistemas escaláveis, confiáveis e bem estruturados.
+Atuo no desenvolvimento de aplicações **front-end (React)** e **back-end**, com forte foco em **Qualidade de Software (QA)** e **automação de testes**, aplicando boas práticas para entregar sistemas escaláveis, confiáveis e bem estruturados.
 
 Tenho visão **end-to-end do produto**, participando desde a construção da interface até a lógica de negócio, integração com APIs, banco de dados e validação por meio de testes automatizados.
 
@@ -20,10 +20,11 @@ Busco constantemente escrever **código limpo**, criar **testes sólidos** e con
 ## 🧩 Habilidades Full Stack
 
 ### 🎨 Front-end
-- Desenvolvimento de interfaces web com **HTML, CSS e JavaScript**
-- Consumo de **APIs REST**
-- Manipulação de DOM e eventos
-- Criação de interfaces funcionais e responsivas
+- Desenvolvimento de interfaces web com **HTML, CSS, JavaScript e React**
+- Criação de aplicações **SPA (Single Page Application)** com React
+- Consumo e integração com **APIs REST**
+- Manipulação de estado, componentes e eventos
+- Criação de interfaces funcionais, reutilizáveis e responsivas
 - Integração front-end ↔ back-end
 
 ### ⚙️ Back-end
@@ -56,12 +57,9 @@ Busco constantemente escrever **código limpo**, criar **testes sólidos** e con
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="55" title="Django" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" title="React" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="55" title="Cypress" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-line.svg" width="55" title="React" />
-
 
 </div>
 
@@ -86,6 +84,9 @@ A combinação entre **Desenvolvimento Full Stack + QA** permite reduzir bugs, r
 
 ## 🚀 Projetos em Destaque
 
+- ⚛️ **Aplicações Front-end com React**  
+  Projetos utilizando componentes reutilizáveis, consumo de APIs REST e boas práticas de organização.
+
 - 🧪 **Automação de Testes Web com Cypress**  
   Suite de testes E2E cobrindo fluxos críticos, validações de negócio e regressões.
 
@@ -101,7 +102,7 @@ A combinação entre **Desenvolvimento Full Stack + QA** permite reduzir bugs, r
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Full Stack**, com diferencial em **Qualidade de Software e Automação de Testes**, contribuindo para produtos robustos, bem testados e escaláveis.
+Atuar como **Desenvolvedor Full Stack**, com diferencial em **React, QA e Automação de Testes**, contribuindo para produtos robustos, bem testados e escaláveis.
 
 ---
 
