@@ -59,6 +59,9 @@ Busco constantemente escrever **código limpo**, criar **testes sólidos** e con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" title="C" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="55" title="Cypress" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-line.svg" width="55" title="React" />
+
 
 </div>
 
