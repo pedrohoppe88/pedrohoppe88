@@ -120,9 +120,7 @@ Aberto a oportunidades, projetos e networking na área de tecnologia.
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://steamcommunity.com/profiles/76561199077291732/">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-</a>
+
 
 </div>
 
