@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Pedro Henrique Hoppe  
-### Desenvolvedor Full Stack | React, QA & Automação de Testes
+### Desenvolvedor Full Stack | QA Automação de Testes
 
 Sou desenvolvedor **Full Stack** com formação técnica pelo **CTISM (Colégio Técnico Industrial de Santa Maria)** e graduando em **Sistemas de Informação (AMF)**.  
 Atuo no desenvolvimento de aplicações **front-end (React)** e **back-end**, com forte foco em **Qualidade de Software (QA)** e **automação de testes**, aplicando boas práticas para entregar sistemas escaláveis, confiáveis e bem estruturados.
