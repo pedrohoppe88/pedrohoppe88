@@ -16,7 +16,7 @@ Foco principal em desenvolvimento backend, arquitetura de APIs e construção de
 
 ---
 
-## 🧩 Habilidades Full Stack
+## 🧩 Habilidades
 
 ### 🎨 Front-end
 - Desenvolvimento de interfaces web com HTML, CSS, JavaScript
