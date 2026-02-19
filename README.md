@@ -19,7 +19,7 @@ Foco principal em desenvolvimento backend, arquitetura de APIs e construção de
 ## 🧩 Habilidades Full Stack
 
 ### 🎨 Front-end
-- Desenvolvimento de interfaces web com **HTML, CSS, JavaScript
+- Desenvolvimento de interfaces web com HTML, CSS, JavaScript
 - Consumo e integração com **APIs REST**
 - Manipulação de estado, componentes e eventos
 - Criação de interfaces funcionais, reutilizáveis e responsivas
