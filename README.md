@@ -37,6 +37,8 @@ Foco principal em desenvolvimento backend, arquitetura de APIs e construção de
 - Modelagem de dados relacionais
 - SQL (CRUD, consultas, relacionamentos)
 - Noções de ambientes Linux e servidores
+- PostgreSQL
+- Docker
 - Experiência com infraestrutura básica e virtualização
 
 ---
