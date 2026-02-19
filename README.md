@@ -82,13 +82,10 @@ A combinação entre **Desenvolvimento Full Stack + QA** permite reduzir bugs, r
 
 ## 🚀 Projetos em Destaque
 
-- ⚛️ **Aplicações Front-end com React**  
-  Projetos utilizando componentes reutilizáveis, consumo de APIs REST e boas práticas de organização.
-
 - 🧪 **Automação de Testes Web com Cypress**  
   Suite de testes E2E cobrindo fluxos críticos, validações de negócio e regressões.
 
-- 🌐 **Sistema Web Full Stack com Django**  
+- 🌐 **Sistema Web Full Stack com Django e PHP**  
   Aplicação completa com autenticação, gerenciamento de usuários, APIs e regras de negócio.
 
 - ⚙️ **Projetos Técnicos e Acadêmicos**  
@@ -100,7 +97,7 @@ A combinação entre **Desenvolvimento Full Stack + QA** permite reduzir bugs, r
 
 ## 🎯 Objetivo Profissional
 
-Atuar como **Desenvolvedor Full Stack**, com diferencial em **React, QA e Automação de Testes**, contribuindo para produtos robustos, bem testados e escaláveis.
+Atuar como Desenvolvedor Backend, trabalhando com Django e/ou PHP, APIs REST e PostgreSQL.
 
 ---
 
