@@ -78,7 +78,7 @@ Atuo fortemente em **QA**, integrando qualidade ao processo de desenvolvimento d
 - ✔️ Escrita de cenários reutilizáveis e bem documentados  
 - ✔️ Apoio ao desenvolvimento com visão técnica de QA  
 
-A combinação entre **Desenvolvimento Full Stack + QA** permite reduzir bugs, retrabalho e elevar a qualidade final do produto.
+Minha experiência em desenvolvimento backend aliada ao conhecimento em QA permite criar sistemas mais robustos e confiáveis.
 
 ---
 
