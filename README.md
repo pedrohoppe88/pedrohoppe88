@@ -3,11 +3,9 @@
 # 👨‍💻 Pedro Henrique Hoppe  
 ### Desenvolvedor Backend
 
-Desenvolvedor Backend | Python | Django | PHP | PostgreSQL
-Desenvolvedor Backend com experiência prática no desenvolvimento e manutenção de sistemas reais em produção utilizando Python, Django, PHP e PostgreSQL.
-Atuei na criação de APIs REST, implementação de regras de negócio críticas, otimização de performance (resolução de N+1, criação de índices) e modelagem de banco de dados relacional.
-Também possuo experiência em Quality Assurance, testes de sistemas e análise de falhas em produção, contribuindo diretamente para a estabilidade e qualidade das aplicações.
-Foco principal em desenvolvimento backend, arquitetura de APIs e construção de sistemas robustos e escaláveis.
+Backend Developer | Python | Django | PHP | PostgreSQL
+Atuo na criação de APIs, modelagem de banco de dados e otimização de aplicações. Focado em desenvolver sistemas eficientes, organizados e escaláveis.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedrohoppe88&theme=radical&hide_border=true)
