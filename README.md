@@ -6,8 +6,6 @@
 Backend Developer | Python | Django | PHP | PostgreSQL. 
 Atuo na criação de APIs, modelagem de banco de dados e otimização de aplicações. Focado em desenvolver sistemas eficientes, organizados e escaláveis.
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedrohoppe88&theme=radical&hide_border=true)
 
 </div>
