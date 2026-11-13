@@ -12,29 +12,14 @@ Atuo na criação de APIs, modelagem de banco de dados e otimização de aplica�
 
 ---
 
-
-### Projetos em destaque
-
 <br/>
-
-<p align="left">
-  <a href="https://seu-portfolio.com" target="_blank">
-    <img src="./assets/btn-portfolio.svg" height="38" alt="Portfólio" />
-  </a>
-  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
-    <img src="./assets/btn-linkedin.svg" height="38" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pedrohenriquehoppe6@gmail.com">
-    <img src="./assets/btn-email.svg" height="38" alt="E-mail" />
-  </a>
-</p>
 
 ### Projetos em destaque
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/seu-usuario/roleapp">
+      <a href="[https://github.com/seu-usuario/roleapp](https://github.com/seu-usuario/roleapp)">
         <img src="./assets/card-roleapp.svg" width="100%" alt="RoleApp" />
       </a>
     </td>
