@@ -24,7 +24,7 @@ Atuo na criação de APIs, modelagem de banco de dados e otimização de aplica�
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/seu-usuario/nexa-crm">
+      <a href="[https://github.com/seu-usuario/nexa-crm](https://github.com/pedrohoppe88/Nexa)">
         <img src="./assets/card-nexa.svg" width="100%" alt="Nexa Solutions CRM" />
       </a>
     </td>
