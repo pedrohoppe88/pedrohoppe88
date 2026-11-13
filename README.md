@@ -12,6 +12,24 @@ Atuo na criação de APIs, modelagem de banco de dados e otimização de aplica�
 
 ---
 
+
+### Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/seu-usuario/roleapp">
+        <img src="./assets/card-roleapp.svg" width="100%" alt="RoleApp" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="[https://github.com/seu-usuario/nexa-crm](https://github.com/pedrohoppe88/Nexa)">
+        <img src="./assets/card-nexa.svg" width="100%" alt="Nexa Solutions CRM" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+
 ## 🧩 Habilidades
 
 ### 🎨 Front-end
