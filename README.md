@@ -1,5 +1,5 @@
 <p>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/pedrohoppe88">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
       <img alt="Pedro Hoppe, Desenvolvedor Back-end em Santa Maria, RS" src="assets/header-light.svg" width="100%">
@@ -9,15 +9,10 @@
 
 Desenvolvedor **Back-end** focado na construção de APIs RESTful, microsserviços e arquiteturas resilientes com **Python**, **Django**, **FastAPI**, **PostgreSQL**, **Redis** e **Docker**. Graduando em **Sistemas de Informação** na Antonio Meneghetti Faculdade (AMF), com vivência prática unindo engenharia de software, qualidade automatizada (QA) e infraestrutura de TI.
 
-<a href="https://github.com/SEU_USUARIO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img alt="Portfólio" src="assets/btn-portfolio-light.svg" height="40"></picture></a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img alt="LinkedIn" src="assets/btn-linkedin-light.svg" height="40"></picture></a>
-<a href="https://github.com/SEU_USUARIO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg"><img alt="GitHub" src="assets/btn-github-light.svg" height="40"></picture></a>
-<a href="mailto:pedrohenriquehoppe6@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img alt="E-mail: pedrohenriquehoppe6@gmail.com" src="assets/btn-email-light.svg" height="40"></picture></a>
-
 ## Projetos em destaque
 
 <a href="https://github.com/SEU_USUARIO/roleapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-roleapp-dark.svg"><img alt="RoleApp: plataforma social geolocalizada" src="assets/card-roleapp-light.svg" width="49%"></picture></a>
-<a href="https://github.com/SEU_USUARIO/nexa-crm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nexa-dark.svg"><img alt="Nexa Solutions CRM: prêmio de melhor usabilidade" src="assets/card-nexa-light.svg" width="49%"></picture></a>
+<a href="[https://github.com/SEU_USUARIO/nexa-crm](https://github.com/pedrohoppe88/Nexa.git)"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-nexa-dark.svg"><img alt="Nexa Solutions CRM: prêmio de melhor usabilidade" src="assets/card-nexa-light.svg" width="49%"></picture></a>
 
 <a href="https://github.com/SEU_USUARIO"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-eb-gestao-dark.svg"><img alt="Sistema de Gestão Militar e Legado PHP" src="assets/card-eb-gestao-light.svg" width="49%"></picture></a>
 <a href="https://github.com/SEU_USUARIO/qa-automation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-qa-suite-dark.svg"><img alt="Suíte de Automação QA e APIs" src="assets/card-qa-suite-light.svg" width="49%"></picture></a>
