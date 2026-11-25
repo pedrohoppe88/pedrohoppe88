@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=42&lines=%3E_Back-end+Engineering+%7C+APIs+Resilientes%2C+Idempot%C3%AAncia+%26+Alta+Concorr%C3%AAncia;%3E_QA+Automation+%26+SDET+%7C+Cypress+%E2%80%A2+Playwright+%E2%80%A2+CI%2FCD+Pipelines;%3E_Performance+Engineering+%7C+k6+%E2%80%A2+InfluxDB+%E2%80%A2+Grafana+Observability;%3E_Shift-Left+Quality+%7C+Construindo+Software+que+n%C3%A3o+quebra+em+Produ%C3%A7%C3%A3o" alt="Typing SVG" />
+</a>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
