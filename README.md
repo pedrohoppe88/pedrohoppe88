@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0f172a,100:0284c7&height=210&section=header&text=Pedro%20Henrique%20Hoppe&fontSize=44&fontColor=38bdf8&animation=fadeIn&fontAlignY=36&desc=Back-end%20Engineer%20%7C%20QA%20Automation%20%26%20Performance%20(SDET)&descAlignY=60&descSize=18" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=42&lines=%3E_Back-end+Engineering+%7C+APIs+Resilientes%2C+Idempot%C3%AAncia+%26+Alta+Concorr%C3%AAncia;%3E_QA+Automation+%26+SDET+%7C+Cypress+%E2%80%A2+Playwright+%E2%80%A2+CI%2FCD+Pipelines;%3E_Performance+Engineering+%7C+k6+%E2%80%A2+InfluxDB+%E2%80%A2+Grafana+Observability;%3E_Shift-Left+Quality+%7C+Construindo+Software+que+n%C3%A3o+quebra+em+Produ%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
