@@ -115,7 +115,6 @@
       </p>
       <ul>
         <li>Back-end desacoplado com autenticação <b>JWT</b></li>
-        <li>Suíte automatizada <b>Cypress + TypeScript</b> no GitHub Actions</li>
         <li>Projeto premiado (<b>Melhor Usabilidade</b> em Hackathon)</li>
       </ul>
       <p>
