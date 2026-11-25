@@ -182,17 +182,6 @@
 ## 📊 Telemetria & Consistência no GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrohoppe88&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=38bdf8&icon_color=38bdf8&include_all_commits=true&count_private=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=38bdf8" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=pedrohoppe88&theme=tokyonight&background=0d1117&border=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 </div>
 
