@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Pedro%20Henrique%20Hoppe&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Back-end%20Engineer%20%7C%20QA%20Automation%20%26%20Performance%20(SDET)&descAlignY=62&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1e293b,100:0284c7&height=210&section=header&text=Pedro%20Henrique%20Hoppe&fontSize=44&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Back-end%20Engineer%20%7C%20QA%20Automation%20%26%20Performance%20(SDET)&descAlignY=62&descSize=18" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&height=42&lines=%3E_Back-end+Engineer+%7C+Python+%E2%80%A2+Django+%E2%80%A2+FastAPI+%E2%80%A2+PHP+8;%3E_QA+Automation+%26+SDET+%7C+Cypress+%E2%80%A2+Playwright+%E2%80%A2+CI%2FCD;%3E_Performance+Engineering+%7C+k6+%E2%80%A2+InfluxDB+%E2%80%A2+Grafana;%3E_Shift-Left+Quality+%26+High-Concurrency+Systems" alt="Typing SVG" />
+</a>
 
 <p align="center">
   <a href="mailto:pedrohenriquehoppe6@gmail.com">
@@ -10,19 +14,39 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/pedrohoppe88?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfólio_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=pedrohoppe88&label=VIEWS&color=0284c7&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mim
+### ⚡ Arquitetura & Mentalidade de Engenharia
 
-Profissional de Tecnologia com atuação híbrida em **Engenharia de Software Back-end** e **Qualidade de Software (QA / SDET)**. 
-
-Construo APIs robustas, sistemas escaláveis e suítes completas de testes automatizados (E2E, API e Carga) aplicando a cultura **Shift-Left** — garantindo que a qualidade, a integridade de dados e a performance façam parte da arquitetura desde a primeira linha de código.
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h4>👨‍💻 Sobre Mim</h4>
+      <p>
+        Profissional de Tecnologia com foco em <b>Engenharia Back-end</b> e <b>Qualidade de Software (QA / SDET)</b>. 
+      </p>
+      <p>
+        Projeto e construo APIs resilientes, sistemas orientados a dados e suítes completas de testes automatizados (E2E, Contrato e Carga). Aplico a cultura <b>Shift-Left</b> para garantir integridade transacional, alta disponibilidade e baixa latência antes mesmo de o código chegar à produção.
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h4>🎯 Pilares Técnicos</h4>
+      <ul>
+        <li><b>Back-end:</b> APIs RESTful, JWT, Idempotência & Concorrência</li>
+        <li><b>QA & SDET:</b> Automação E2E, API Testing & Pipelines CI/CD</li>
+        <li><b>Performance:</b> Load/Stress Testing & Observabilidade</li>
+        <li><b>Dados & Infra:</b> SQL Tuning, Docker & Ambientes Linux</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,20 +56,26 @@ Construo APIs robustas, sistemas escaláveis e suítes completas de testes autom
   <tr>
     <td width="100%" valign="top">
       <h3>🧪 <a href="https://github.com/pedrohoppe88/performance-engineering-k6-grafana">Performance Engineering: k6 + InfluxDB + Grafana</a></h3>
-      <p><b>Categoria:</b> QA & Performance Engineering • Observabilidade</p>
       <p>
-        Laboratório completo de engenharia de performance para validação de resiliência e escalabilidade de APIs REST sob alta concorrência (Load, Stress e Spike Testing).
+        <code>QA & Performance Engineering</code> • <code>Observabilidade</code> • <code>Alta Concorrência</code>
       </p>
-      <ul>
-        <li><b>Impacto Real:</b> Diagnóstico de gargalos de I/O e concorrência, reduzindo a latência de <b>27.800 ms para 64,77 ms</b> sob carga de 200 usuários virtuais simultâneos.</li>
-        <li><b>Observabilidade:</b> Coleta de métricas em tempo real via InfluxDB e dashboards customizados no Grafana.</li>
-      </ul>
+      <p>
+        Ecossistema completo de engenharia de performance criado para simular cenários críticos de tráfego (<b>Load, Stress e Spike Testing</b>) e identificar gargalos de I/O e concorrência em APIs REST.
+      </p>
+      <blockquote>
+        ⚡ <b>Resultado de Engenharia:</b> Otimização do tempo de resposta da API sob carga de <b>200 usuários virtuais simultâneos</b>, reduzindo a latência de <b>27.800 ms para 64,77 ms</b> com monitoramento em tempo real.
+      </blockquote>
       <p>
         <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
         <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/pedrohoppe88/performance-engineering-k6-grafana">
+          <img src="https://img.shields.io/badge/Explorar_Código_%26_Dashboards-0284c7?style=flat-square&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
@@ -54,33 +84,36 @@ Construo APIs robustas, sistemas escaláveis e suítes completas de testes autom
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/pedrohoppe88/PayMentApi-Idempotencia">PayMentApi — Idempotência</a></h3>
-      <p><b>Categoria:</b> Back-end • Arquitetura Financeira</p>
+      <h3>💳 <a href="https://github.com/pedrohoppe88/PayMentApi-Idempotencia">PayMentApi — Idempotência</a></h3>
+      <p><code>Back-end</code> • <code>Resiliência Financeira</code></p>
       <p>
-        API REST de processamento de pagamentos projetada para garantir consistência transacional e evitar cobranças duplicadas em falhas de rede ou retentativas concorrentes.
+        API de processamento de pagamentos projetada para evitar cobranças duplicadas em cenários de falha de rede, timeouts ou retentativas concorrentes (<i>retries</i>).
       </p>
       <ul>
-        <li>Controle de chaves de idempotência</li>
-        <li>Proteção contra Race Conditions</li>
+        <li>Implementação de <b>Idempotency Keys</b></li>
+        <li>Controle transacional contra <i>Race Conditions</i></li>
         <li>Validação rigorosa de contratos e status HTTP</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/QA_Tests-43B02A?style=for-the-badge&logo=pytest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
       </p>
+      <a href="https://github.com/pedrohoppe88/PayMentApi-Idempotencia">
+        <img src="https://img.shields.io/badge/Ver_Repositório-0284c7?style=flat-square&logo=github&logoColor=white" />
+      </a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/pedrohoppe88/Nexa">Nexa Solution — CRM & ERP</a></h3>
-      <p><b>Categoria:</b> Full-Stack • Multi-tenant • CI/CD</p>
+      <p><code>Full-Stack</code> • <code>Multi-tenant</code> • <code>CI/CD</code></p>
       <p>
-        Plataforma completa de gestão empresarial multi-tenant com atendimento integrado via WhatsApp e esteira automatizada de testes E2E e API.
+        Plataforma completa de gestão empresarial multi-tenant com módulo de atendimento via WhatsApp e esteira contínua de qualidade automatizada.
       </p>
       <ul>
-        <li>Arquitetura desacoplada com autenticação JWT</li>
-        <li>Suíte automatizada Cypress + TypeScript no CI</li>
-        <li>Premiado em Hackathon de Engenharia (Melhor Usabilidade)</li>
+        <li>Arquitetura desacoplada com autenticação <b>JWT</b></li>
+        <li>Testes E2E & API automatizados no <b>GitHub Actions</b></li>
+        <li>Projeto premiado em Hackathon de Engenharia</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -88,13 +121,22 @@ Construo APIs robustas, sistemas escaláveis e suítes completas de testes autom
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
       </p>
+      <a href="https://github.com/pedrohoppe88/Nexa">
+        <img src="https://img.shields.io/badge/Ver_Repositório-0284c7?style=flat-square&logo=github&logoColor=white" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Ecossistema Tecnológico
+## 🛠️ Stack Tecnológica & Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,fastapi,php,nodejs,ts,react,postgres,mysql,docker,linux,cypress,grafana,githubactions&perline=7" alt="Tech Stack Icons" />
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -130,22 +172,4 @@ Construo APIs robustas, sistemas escaláveis e suítes completas de testes autom
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Métricas & Atividade no GitHub
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrohoppe88&theme=tokyonight&hide_border=true" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />
+      <img src="
