@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0f172a,100:0284c7&height=210&section=header&text=Pedro%20Henrique%20Hoppe&fontSize=44&fontColor=38bdf8&animation=fadeIn&fontAlignY=36&desc=Back-end%20Engineer%20%7C%20QA%20Automation%20%26%20Performance%20(SDET)&descAlignY=60&descSize=18" />
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=820&height=42&lines=%3E_Back-end+Engineering+%7C+APIs+Resilientes%2C+Idempot%C3%AAncia+%26+Alta+Concorr%C3%AAncia;%3E_QA+Automation+%26+SDET+%7C+Cypress+%E2%80%A2+Playwright+%E2%80%A2+CI%2FCD+Pipelines;%3E_Performance+Engineering+%7C+k6+%E2%80%A2+InfluxDB+%E2%80%A2+Grafana+Observability;%3E_Shift-Left+Quality+%7C+Construindo+Software+que+n%C3%A3o+quebra+em+Produ%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
@@ -85,14 +87,14 @@
           <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrohoppe88&repo=PayMentApi-Idempotencia&theme=tokyonight&bg_color=0d1117&border_color=1e293b&title_color=38bdf8&icon_color=38bdf8" alt="PayMentApi Repo" />
         </a>
       </p>
-      <h3>💳 Resiliência Financeira & Idempotência</h3>
-      <p><code>Back-end</code> • <code>Consistência Transacional</code> • <code>Concorrência</code></p>
+      <h3>💳 Simulação de API de Pagamentos (Idempotência)</h3>
+      <p><code>Back-end</code> • <code>Simulação de Pagamentos</code> • <code>Concorrência</code></p>
       <p>
-        API de processamento de pagamentos projetada para eliminar cobranças duplicadas causadas por falhas de rede, timeouts ou retentativas simultâneas (<i>retries</i>).
+        Simulador de API de pagamentos desenvolvido para demonstrar na prática como evitar cobranças duplicadas causadas por falhas de rede, timeouts ou retentativas concorrentes (<i>retries</i>).
       </p>
       <ul>
-        <li>Controle rigoroso via <b>Idempotency Keys</b></li>
-        <li>Proteção contra <i>Race Conditions</i> no banco de dados</li>
+        <li>Controle de requisições via <b>Idempotency Keys</b></li>
+        <li>Prevenção contra <i>Race Conditions</i> em transações simuladas</li>
         <li>Validação de contratos e respostas determinísticas</li>
       </ul>
       <p>
@@ -115,6 +117,7 @@
       </p>
       <ul>
         <li>Back-end desacoplado com autenticação <b>JWT</b></li>
+        <li>Suíte automatizada <b>Cypress + TypeScript</b> no GitHub Actions</li>
         <li>Projeto premiado (<b>Melhor Usabilidade</b> em Hackathon)</li>
       </ul>
       <p>
@@ -181,7 +184,7 @@
 ## 📊 Telemetria & Consistência no GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrohoppe88&theme=tokyonight&background=0d1117&border=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+  <img src="https://streak-stats.demolab.com?user=pedrohoppe88&theme=tokyonight&background=0d1117&border_color=1e293b&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
 </div>
 
 <div align="center">
