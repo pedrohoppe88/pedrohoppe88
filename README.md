@@ -11,9 +11,6 @@
   <a href="mailto:pedrohenriquehoppe6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/pedrohoppe88?tab=followers">
-    <img src="https://img.shields.io/github/followers/pedrohoppe88?label=Seguidores&style=for-the-badge&color=0284c7&logo=github" alt="Seguidores" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=pedrohoppe88&label=VISITAS&color=1e293b&style=for-the-badge" alt="Profile Views" />
 </p>
 
